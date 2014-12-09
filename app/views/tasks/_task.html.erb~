@@ -1,0 +1,4 @@
+<p>
+  <strong>Task:</strong>
+  <%= task.task %>
+</p>
